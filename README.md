@@ -1,6 +1,6 @@
 # 🌍 WanderWise - Your Ultimate Travel Companion ✈️
 
-![WanderWise Banner](https://source.unsplash.com/1600x600/?travel,nature)  
+
 _A modern travel recommendation platform that helps you explore the world with ease._
 
 ---
