@@ -18,6 +18,7 @@ function searchDestinations() {
     }
 }
 
+
 function clearSearch() {
     document.getElementById("searchBox").value = "";
     document.getElementById("results").innerHTML = "";
